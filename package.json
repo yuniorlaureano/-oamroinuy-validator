@@ -1,0 +1,14 @@
+{
+  "name": "@oamroinuy/validator",
+  "version": "1.0.0",
+  "description": "This is a java script form validator.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Yunior Miguel Laureano <yuniorlaureano@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.2.5"
+  }
+}

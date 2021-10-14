@@ -6,6 +6,10 @@
   "scripts": {
     "test": "jest"
   },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
   "author": "Yunior Miguel Laureano <yuniorlaureano@gmail.com>",
   "license": "ISC",
   "devDependencies": {

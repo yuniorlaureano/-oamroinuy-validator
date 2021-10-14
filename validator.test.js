@@ -1,4 +1,4 @@
-const { validator, number, required } = require("./validator");
+const { validator, number, required } = require("./index");
 
 var model = {};
 let conf = {
